@@ -11,7 +11,7 @@
   {
     "id": "D-1002",
     "name": "Unusual Network Activity",
-    "host": "HOST-02",
+    "host": "HOST-",
     "user": "asmith",
     "ip": "192.168.1.22",
     "severity": 2,
@@ -20,10 +20,19 @@
   {
     "id": "D-1003",
     "name": "Possible Credential Dumping",
-    "host": "HOST-03",
+    "host": "HOST-16",
     "user": "admin",
     "ip": "192.168.1.33",
     "severity": 1,
     "summary": "LSASS access attempt detected"
+  },
+  {
+    "id": "D-1004",
+    "name": "Malicious execution found",
+    "host": "HOST-27",
+    "user": "admin",
+    "ip": "192.168.1.33",
+    "severity": 1,
+    "summary": "JustAskJacky.exe"
   }
 ]
