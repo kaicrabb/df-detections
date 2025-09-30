@@ -5,6 +5,7 @@
     "host": "HOST-01",
     "user": "jdoe",
     "ip": "192.168.1.10",
+    "hash": "placeholder",
     "severity": 3,
     "summary": "PowerShell script with obfuscation detected"
   },
@@ -14,6 +15,7 @@
     "host": "HOST-",
     "user": "asmith",
     "ip": "192.168.1.22",
+    "hash": "placeholder",
     "severity": 2,
     "summary": "Outbound connection to known malicious IP"
   },
@@ -23,6 +25,7 @@
     "host": "HOST-16",
     "user": "admin",
     "ip": "192.168.1.33",
+    "hash": "placeholder",
     "severity": 1,
     "summary": "LSASS access attempt detected"
   },
@@ -32,6 +35,7 @@
     "host": "HOST-27",
     "user": "admin",
     "ip": "192.168.1.33",
+    "hash": "placeholder",
     "severity": 1,
     "summary": "JustAskJacky.exe"
   }
