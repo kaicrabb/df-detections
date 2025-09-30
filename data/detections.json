@@ -1,0 +1,29 @@
+[
+  {
+    "id": "D-1001",
+    "name": "Suspicious PowerShell Execution",
+    "host": "HOST-01",
+    "user": "jdoe",
+    "ip": "192.168.1.10",
+    "severity": 3,
+    "summary": "PowerShell script with obfuscation detected"
+  },
+  {
+    "id": "D-1002",
+    "name": "Unusual Network Activity",
+    "host": "HOST-02",
+    "user": "asmith",
+    "ip": "192.168.1.22",
+    "severity": 2,
+    "summary": "Outbound connection to known malicious IP"
+  },
+  {
+    "id": "D-1003",
+    "name": "Possible Credential Dumping",
+    "host": "HOST-03",
+    "user": "admin",
+    "ip": "192.168.1.33",
+    "severity": 1,
+    "summary": "LSASS access attempt detected"
+  }
+]

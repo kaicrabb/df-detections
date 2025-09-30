@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.detection {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.severity-1 { border-left: 5px solid green; }
+.severity-2 { border-left: 5px solid orange; }
+.severity-3 { border-left: 5px solid red; }
