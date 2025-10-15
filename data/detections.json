@@ -5,8 +5,8 @@
     "host": "HOST-01",
     "user": "jdoe",
     "ip": "192.168.1.10",
-    "hash": "placeholder",
-    "severity": 3,
+    "hash": "529889598d65fa39d717b23d0be7fdfcc213095c0495866fd798c07b5a60b423",
+    "severity": 2,
     "summary": "PowerShell script with obfuscation detected"
   },
   {
@@ -15,8 +15,8 @@
     "host": "HOST-",
     "user": "asmith",
     "ip": "192.168.1.22",
-    "hash": "placeholder",
-    "severity": 2,
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "severity": 1,
     "summary": "Outbound connection to known malicious IP"
   },
   {
@@ -26,7 +26,7 @@
     "user": "admin",
     "ip": "192.168.1.33",
     "hash": "84c82835a5d21bbcf75a61706d8ab549",
-    "severity": 1,
+    "severity": 3,
     "summary": "LSASS access attempt detected"
   },
   {
@@ -36,7 +36,7 @@
     "user": "admin",
     "ip": "192.168.1.33",
     "hash": "f8aaf313cc213258c6976cd55c8c0d048f61b0f3b196d768fbf51779786b6ac6",
-    "severity": 1,
+    "severity": 3,
     "summary": "JustAskJacky.exe"
   }
 ]
