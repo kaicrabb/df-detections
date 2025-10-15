@@ -13,7 +13,7 @@ fetch('data/detections.json')
         User: ${d.user}<br>
         IP: ${d.ip}<br>
         Hash: ${d.hash}<br>
-        <em>${d.summary}</em>
+        <em>${d.summary}</em><br>
         ${d.hash ? `<button onclick="window.open('https://www.virustotal.com/gui/search/${d.hash}', '_blank')">Search on VirusTotal</button>` : ''}
       `;
       container.appendChild(div);
