@@ -25,7 +25,7 @@
     "host": "HOST-16",
     "user": "admin",
     "ip": "192.168.1.33",
-    "hash": "placeholder",
+    "hash": "84c82835a5d21bbcf75a61706d8ab549",
     "severity": 1,
     "summary": "LSASS access attempt detected"
   },
@@ -35,7 +35,7 @@
     "host": "HOST-27",
     "user": "admin",
     "ip": "192.168.1.33",
-    "hash": "placeholder",
+    "hash": "f8aaf313cc213258c6976cd55c8c0d048f61b0f3b196d768fbf51779786b6ac6",
     "severity": 1,
     "summary": "JustAskJacky.exe"
   }
